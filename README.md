@@ -8,6 +8,9 @@ A drastically modified version of the Xpander construction kit. All waves have b
 -   **Approx Size:** 950mb
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 
+[![Demo Video](https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/raw/master/embed.png)
+](https://youtu.be/dgiAJXgHjgw)
+
 # Loading
 
 **Logic Sampler/EXS24**
