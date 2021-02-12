@@ -9,6 +9,15 @@ A drastically modified version of the Xpander construction kit. All waves have b
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
+<div align="center">
+      <a href="https://youtu.be/dgiAJXgHjgw">
+     <img 
+      src="https://github.com/publicsamples/Oberheim-Xpander-CK--Session-1/raw/master/embed.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
+
 # Loading
 
 **Logic Sampler/EXS24**
