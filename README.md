@@ -7,6 +7,7 @@ A drastically modified version of the Xpander construction kit. All waves have b
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 950mb
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
 # Loading
 
